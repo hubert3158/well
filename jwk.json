@@ -1,8 +1,6 @@
 {
   "kty": "RSA",
-  "kid": "my-key-id-123",  
-  "n": "0OJ83MaxDMP-dUjQvPb5zf6NtZUYugN0awtROIXQPu89Xhda2a4wc4AeHmJH4pgrM6Rf3sEb95cZt45gUHeR1H6fSv3EjPQ1HQJ95iPx9p_7pSz7hjhdEa0RkSx74fpI85gNZ5xB5JZC_CeH9B19LSqqXr7TvPAoTyZa-6qfNk02jqtP_FCDhbeoVCorBhB8d0oSe4e7t9g50WBGjn_3MsaZ8lnWezOQkA6PpoBqIMXVI3CJo4qqVC6UwTNZAoL2MMjUJrpc9Cjc1_Gx2Vyq4UXUSG2or4B1oMdyuy6YlFALl5F-d2YEuU02mryIkDGMs4xtYH8jfWJZGt9yt1pkZw",
-  "e": "AQAB",
-  "use": "sig"
+  "kid": "my-key-id-123", 
+  "n": "p3Tr4YZd1xd3NQI3FqfCKaqWCoRuJXqncw9fV6fxqsSJLqlVtVvcBU1QgXy4U2qvMapoU7pOJFx98UY-JmZsXjvhIQRthMTX6DMqgjkKyJOM8cDPlieUU9FJT9arRMpXKqmUKI9KJkJWh4UqiiTeDtWHqap0e1G_V60zL1dSs3YQXooho6RDJxhuh28MFuRRMkogzQqGL5rL9ctzC6i75Ixde7l5OtOS0OER4Ao1lJyhyo_CEHLTv1f6uJ4PGIdVTOO56SJDghfEpDc3xMWp2wbjcoZzHJS_GJhL5TbxsZzImlwnoUc0JMKTyC4cJmzm1g2z8HmmrZLi1Pdj3xxeEw",
+  "e": "AQAB"
 }
-
