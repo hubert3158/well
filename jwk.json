@@ -3,6 +3,7 @@
     {
       "kty": "RSA",
       "kid": "e532d109e3982dd700baf8da1674eb08",
+      "alg": "RS384",
       "n": "p3Tr4YZd1xd3NQI3FqfCKaqWCoRuJXqncw9fV6fxqsSJLqlVtVvcBU1QgXy4U2qvMapoU7pOJFx98UY-JmZsXjvhIQRthMTX6DMqgjkKyJOM8cDPlieUU9FJT9arRMpXKqmUKI9KJkJWh4UqiiTeDtWHqap0e1G_V60zL1dSs3YQXooho6RDJxhuh28MFuRRMkogzQqGL5rL9ctzC6i75Ixde7l5OtOS0OER4Ao1lJyhyo_CEHLTv1f6uJ4PGIdVTOO56SJDghfEpDc3xMWp2wbjcoZzHJS_GJhL5TbxsZzImlwnoUc0JMKTyC4cJmzm1g2z8HmmrZLi1Pdj3xxeEw",
       "e": "AQAB"
     }
